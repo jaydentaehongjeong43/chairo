@@ -22,7 +22,7 @@
     "seneca": "0.6.x"
   },
   "peerDependencies": {
-    "hapi": "^8.5.x"
+    "hapi": ">=9.x.x"
   },
   "devDependencies": {
     "code": "1.x.x",
